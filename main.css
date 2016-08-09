@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+}
+#holocronvid {
+    align-items: center;
+}
+#vidfail {
+    color: #fff;
+}
+#landingli {
+    background-color: #808080;
+    align-content: center;
+    padding: 5px;
+    border: solid;
+    border-radius: border-color: #4d4d4d;
+    border-width: 5px;
+}
+#landingheadline {
+    text-align: center;
+    color: #428bca;
+    font-style: oblique;
+    font-family: 'Uncial Antiqua', cursive;
+}
+#username {
+    margin-bottom: 5px;
+}
+#password {
+    margin-bottom: 5px;
+}
+#maindropdown {
+    margin-left: 2%;
+    margin-top: 10px;
+}
